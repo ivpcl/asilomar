@@ -1,0 +1,4 @@
+AuthGroupFile /dev/null
+AuthType Basic
+AuthUserFile /home/sscconf/domains/asilomarsscconf.org/.htpasswd/public_html/.htpasswd
+AuthName "Protected HTML user"

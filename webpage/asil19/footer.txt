@@ -1,0 +1,27 @@
+<!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <ul class="list-inline social-buttons">
+            <li class="list-inline-item">
+              <a href="https://twitter.com/hashtag/Asilomar_SSC?src=hash">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://www.facebook.com/asilomarssc">
+                <i class="fab fa-facebook-f"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          Public Disclosure: Certain tax and governing documents are available upon request. Such requests should be
+          directed to the SS&C Treasurer (tax documents) or the SS&C Secretary (governing documents).
+        </div>
+      </div>
+    </div>
+  </footer>

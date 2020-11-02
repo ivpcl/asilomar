@@ -1,0 +1,42 @@
+/* asilomar-layout.css 
+ *  This is the file that is used to setup the layout
+ *  for sitenav and everything else. This is the file to modify
+ *  for changing the layout.
+ *  Listing 13.5 from page 401 of Web book.
+ */
+
+body      { margin: 0; padding: 0; }
+
+#header   { padding: 2em 0 0em 0;  /* Top, Right, Bottom, Left */
+		    position: relative; }     /* relative position here. Do not remove. */
+
+#sps      { position: relative;
+		    width:343.5px; height: 96px;  /* 687x192 */
+            padding: 0em 0 0em 12em;  /* 12 em left padding from the location of main (see below) */ 
+	        width:  100% }
+
+#sitenav  { position: absolute;
+		    top: 0; right: 0;
+		    border-bottom: 1px solid #DDDD00;
+		    width: 100%; }
+#sitenav ol { padding: 0; margin: 0; 
+              display: inline; }
+#sitenav li { display: inline; padding-left: 1em; 
+              margin-left: 1em; border-left: 1px
+              solid black; }
+#sitenav li:first-child 
+            { padding-left: 0; border-left: none; 
+              margin-left: 0; }
+
+/* main iframe where everything will be displayed.
+ */
+#mainIframe {width:800px; height:1600px; } /* CONTROL APPEARANCE */
+
+/* This is what positions the sidebar and the content: 
+ *   float: left          puts them on the left.
+ *   position: relative   places it relative to others.
+ * */
+#main       { padding: 0 2em 2em 12em; }
+#content    { position: relative; }
+#sidebar    { position: absolute; left: 1em; top: 12em; width: 10em; }
+#sidebar ol { margin: 0 0 1em 0; }

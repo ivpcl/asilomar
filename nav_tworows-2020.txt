@@ -1,0 +1,73 @@
+<nav class="navbar navbar-expand-md fixed-top-sm justify-content-start bg-dark navbar-dark">
+    <a href="./" class="navbar-brand">
+    	<img src="img/2019NewLogo_cut.png" height="40">
+        Asilomar Conference on Signals, Systems, and Computers
+    </a>
+<ul class="navbar-nav text-uppercase ml-auto">
+			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger"  href="schedule.html">Conference Schedule</a>
+			</li>
+			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger"  href="https://www2.securecms.com/Asilomar2020/RegularProgram.asp">Program Schedule</a>
+			</li>
+        			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger" href="./Committees.html">Committees</a>
+			</li>
+                    			<li class="nav-item">
+			    <a class="nav-link" href="https://www2.securecms.com/Asilomar2020/Registration.asp">Registration</a>
+			</li>
+            			<li class="nav-item dropdown">
+			    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				General Information
+			    </a>
+			    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+				<!-- <a class="dropdown-item" href="#">Travel Directions</a> -->
+				<!-- <a class="dropdown-item"  href="#">Hotel Registration</a> -->
+				<a class="dropdown-item" href="PastConferences.html">Past Conferences</a>
+				<a class="dropdown-item" href="FAQ.html">FAQ</a>
+				<a class="dropdown-item" href="Contacts.html">Contacts</a>
+			    </div>
+			</li>
+		    </ul>
+</nav>
+<nav class="navbar navbar-expand-md bg-light navbar-light">
+    <a href="/" class="navbar-brand">
+    	<img src="img/ieee_sps_black.png" height="30">
+        IEEE Signal Processing Society
+    </a>
+        <ul class="navbar-nav text-uppercase ml-auto">
+
+			            <li class="nav-item dropdown">
+			    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				Technical Program
+			    </a>
+			    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+			     <a class="dropdown-item" href="https://www2.securecms.com/Asilomar2020/RegularProgram.asp">Online</a>
+			      <a class="dropdown-item" href="https://www2.securecms.com/Asilomar2020/Asilomar2020_ProgramGuide.pdf">PDF</a>
+			    </div>
+			</li>
+
+        			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger" href="call20FirstDraft5.pdf">Call for Papers</a>
+			</li>
+			            <li class="nav-item dropdown">
+			    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				Paper submission
+			    </a>
+			    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+				<a class="dropdown-item" href="https://www2.securecms.com/Asilomar2020/Papers/Submission.asp">Submission</a>
+				<a class="dropdown-item"  href="https://www2.securecms.com/Asilomar2020/Papers/FindPaper.asp">Revise Existing Paper</a>
+				<a class="dropdown-item" href="https://www2.securecms.com/Asilomar2020/Papers/FindPaperFull.asp">Submit Full/Final Paper</a>
+				<a class="dropdown-item" href="https://www2.securecms.com/Asilomar2020/Papers/FindPaperStatus.asp">Check Status</a>
+			    </div>
+			</li>
+			        			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger" href="StudentPaperContest.html">Student paper contest</a>
+			</li>
+			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger" href="./PaperPresentation.html">Paper Presentation</a>
+                </li>
+
+ 
+		    </ul>
+</nav>

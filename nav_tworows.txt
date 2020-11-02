@@ -1,0 +1,70 @@
+<nav class="navbar navbar-expand-md fixed-top-sm justify-content-start bg-dark navbar-dark">
+    <a href="./" class="navbar-brand">
+    	<img src="img/2019NewLogo_cut.png" height="40">
+        Asilomar Conference on Signals, Systems, and Computers
+    </a>
+<ul class="navbar-nav text-uppercase ml-auto">
+			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger" target="balnk" href="schedule.html">Conference Schedule</a>
+			</li>
+			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger" target="balnk" href="./AsilomarProgram-2019.pdf">Program Schedule</a>
+			</li>
+			<!---
+			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger" target="balnk" href="#">Technical program</a>
+			</li>
+
+			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger" target="balnk" href="./AsilomarProgram-2019.pdf">Download schedule</a>
+			</li>
+			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger" href="schedule.html">Conference schedule</a>
+			</li>
+			--->
+            			</li>
+        			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger" href="Committees.html">Committees</a>
+			</li>
+                    			<li class="nav-item">
+			    <a class="nav-link" href="registration2019.html">Registration</a>
+			</li>
+            			<li class="nav-item dropdown">
+			    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				General Information
+			    </a>
+			    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+				<a class="dropdown-item" href="TravelDirections.html">Travel Directions</a>
+				<a class="dropdown-item" target="_blank" href="https://book.passkey.com/e/49947504">Hotel Registration</a>
+				<a class="dropdown-item" href="PastConferences.html">Past Conferences</a>
+				<a class="dropdown-item" href="FAQ.html">FAQ</a>
+				<a class="dropdown-item" href="Contacts.html">Contacts</a>
+			    </div>
+			</li>
+		    </ul>
+</nav>
+<nav class="navbar navbar-expand-md bg-light navbar-light">
+    <a href="/" class="navbar-brand">
+    	<img src="img/ieee_sps_black.png" height="30">
+        IEEE Signal Processing Society
+    </a>
+        <ul class="navbar-nav text-uppercase ml-auto">
+
+        <li class="nav-item">
+    <a class="nav-link js-scroll-trigger" target="_blank" href="https://www2.securecms.com/Asilomar2019/RegularProgram.asp">Technical Program</a>
+</li>
+
+        			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger" target="_blank" href="CallForPapers/Call19Final_ExtendedDeadline.pdf">Call for Papers</a>
+			</li>
+        			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger" href="PaperSubmission.html">Paper Submission</a>
+			</li>
+			        			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger" href="StudentPaperContest.html">Student paper contest</a>
+			</li>
+			<li class="nav-item">
+			    <a class="nav-link js-scroll-trigger" href="PaperPresentation.html">Paper Presentation</a>
+                </li>
+		    </ul>
+</nav>
